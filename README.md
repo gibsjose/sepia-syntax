@@ -9,6 +9,4 @@ If you use OSX, I suggest the Monaco font, which is not only free, but looks rea
 
 If you like the theme, please :star: it, or send pull requests if you think you can improve it!
 
-![Sepia screenshot dark](https://dl.dropboxusercontent.com/u/57252/dark.png)
-
-![Sepia screenshot light](https://dl.dropboxusercontent.com/u/57252/light.png)
+![Sepia screenshot dark](screenshot.png)
