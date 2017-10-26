@@ -3,7 +3,7 @@
   "theme": "syntax",
   "version": "1.1.0",
   "description": "A light theme with a focus on syntax clarity.",
-  "repository": "https://github.com/lucaska/sepia-syntax",
+  "repository": "https://github.com/gibsjose/sepia-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">0.50.0"
